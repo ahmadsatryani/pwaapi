@@ -1,0 +1,24 @@
+{
+  "products": [
+    {"id":1,"name":"Roe deer","category":"Violet"},
+{"id":2,"name":"Roseat flamingo","category":"Turquoise"},
+{"id":3,"name":"African black crake","category":"Fuscia"},
+{"id":4,"name":"Lemming, collared","category":"Khaki"},
+{"id":5,"name":"Badger, american","category":"Crimson"},
+{"id":6,"name":"Bat, madagascar fruit","category":"Maroon"},
+{"id":7,"name":"Wallaroo, common","category":"Green"},
+{"id":8,"name":"Great cormorant","category":"Khaki"},
+{"id":9,"name":"Whale, killer","category":"Teal"},
+{"id":10,"name":"Columbian rainbow boa","category":"Violet"},
+{"id":11,"name":"South African hedgehog","category":"Crimson"},
+{"id":12,"name":"Grebe, little","category":"Puce"},
+{"id":13,"name":"Cuis","category":"Maroon"},
+{"id":14,"name":"Spectacled caiman","category":"Teal"},
+{"id":15,"name":"Grey lourie","category":"Mauv"},
+{"id":16,"name":"Lizard, goanna","category":"Yellow"},
+{"id":17,"name":"Owl, burrowing","category":"Violet"},
+{"id":18,"name":"Tenrec, tailless","category":"Aquamarine"},
+{"id":19,"name":"Fox, blue","category":"Purple"},
+{"id":20,"name":"Owl, australian masked","category":"Teal"}
+]
+}
